@@ -1,0 +1,19 @@
+@tailwind base;
+
+*{
+  margin: 0;
+  padding: 0;
+
+},
+
+body{
+  margin:0;
+}
+
+.menu_nav_dark>ul>li{
+  color:#e5e7eb; 
+}
+
+.menu_nav_light>ul>li{
+  color:#000000; 
+}
